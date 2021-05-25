@@ -1,11 +1,13 @@
 ### Hi there 👋
-# Hi this is a wsidfho  ![image](https://user-images.githubusercontent.com/39233077/119437398-08bf7180-bcec-11eb-8320-1d828e050e04.png)
+<!-- # Hi this is a wsidfho  ![image](https://user-images.githubusercontent.com/39233077/119437398-08bf7180-bcec-11eb-8320-1d828e050e04.png)
 ![image](https://user-images.githubusercontent.com/39233077/119438131-83d55780-bced-11eb-8830-2e689d9019b7.png)
-
+![image](https://user-images.githubusercontent.com/39233077/119535708-4fe24c80-bd56-11eb-92c1-f797dd3f56ff.png)
+![image](https://user-images.githubusercontent.com/39233077/119535731-553f9700-bd56-11eb-91db-3b96b924a076.png)
+data can either drive or drown you
 
 ## 👋
 
-<!--
+
 **farshidjamali/farshidjamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
